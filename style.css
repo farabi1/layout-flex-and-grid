@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Navbar style start  */
+
+.nav-title{
+    margin: 50px 0;
+    font-size: 30px;
+}
+
+
+/* Navbar style END  */
